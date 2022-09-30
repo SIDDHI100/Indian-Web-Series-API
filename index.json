@@ -1768,5 +1768,28 @@
         "seasons": 2,
         "releaseDate": "16-04-2019"
     },
+[{
+        "id": 99,
+        "name": "ImMature",
+        "rating": 8.8,
+        "description": " 5-episode coming-of-age story about the many first adventures in a young man's life. Dhruv is 16, and in a hurry to grow up. With a little help from his school friends, the wannabe bad-boy Kabir, and the color blind but doesn't know it Susu, Dhruv sets out to woo the first crus...
+ "category": ["comedy","romance" "Drama"],
+        "platform": "primevedio",
+        "casting": {
+            "actors": [
+                "Rashmi Agdekar",
+                "Omkar Kulkarni",
+                "Kannika Kapur",
+                "Chinamay Chandraunshush",
+                "Visshesh Tiwari",
+                "Vikranth Thanikanti",
+            ],
+            "director": ["prem mistry"]
+        },
+        "poster": "https://www.moviepostershop.com/the-immature-movie-poster-2011",
+        "episodeCount": 5,
+        "seasons": 2,
+        "releaseDate": "20-02-2019"
+    },
 
 ]
